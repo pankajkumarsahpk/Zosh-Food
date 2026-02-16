@@ -10,3 +10,5 @@
 Zosh Food is a full-stack online food delivery application that connects restaurants and customers through a modern and user-friendly platform. It allows restaurant owners to register, manage menus, and handle orders, while customers can browse food items, add them to cart, and place orders easily. The system ensures secure data management, efficient order processing, and a seamless user experience using modern web technologies.
 
 ## 📸 Screenshots
+
+
