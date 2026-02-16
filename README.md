@@ -15,4 +15,11 @@ Zosh Food is a full-stack online food delivery application that connects restaur
 ![Home Page](https://github.com/pankajkumarsahpk/Zosh-Food/blob/e3a06ae634bff754c991d7220ce8d08541647ceb/home.jpeg?raw=true)
 *Beautiful landing page with hero section and call-to-action*
 
+![Menu Categories](https://github.com/shubheshkumar0/GrabitGo-Food-Delivery-Web-App/blob/main/Screenshot%202026-01-21%20165805.png?raw=true)
+*Explore diverse menu categories and discover top dishes near you*
+
+### Admin Dashboard
+![Order Management](https://github.com/shubheshkumar0/GrabitGo-Food-Delivery-Web-App/blob/main/Screenshot%202026-01-21%20165819.png?raw=true)
+*Real-time order tracking and management dashboard*
+
 
